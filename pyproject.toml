@@ -17,6 +17,7 @@ dependencies = [
     "torchvision>=0.28.0",
     "tqdm>=4.70.0",
     "ucimlrepo>=0.0.7",
+    "xlrd>=2.0.2",
 ]
 
 [tool.uv]
